@@ -2,5 +2,5 @@
 Some simple games made in Java.
 
 Currently:
--RockPaperScissors
--TicTacToe
+<br>-RockPaperScissors
+<br>-TicTacToe
